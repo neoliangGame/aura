@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: fe2ddebb45d19fd4094aba83ce541677
+timeCreated: 1543570500
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: body
+    100002: boneBody1
+    100004: boneBody2
+    100006: boneBody3
+    100008: boneHair
+    100010: boneHair011
+    100012: boneHair012
+    100014: boneHair013
+    100016: boneHair021
+    100018: boneHair022
+    100020: boneHair11
+    100022: boneHair12
+    100024: boneHair21
+    100026: boneHair22
+    100028: boneHair23
+    100030: boneHair31
+    100032: boneHair32
+    100034: boneHair33
+    100036: boneHair41
+    100038: boneHair42
+    100040: boneHair43
+    100042: boneHair44
+    100044: boneHair51
+    100046: boneHair52
+    100048: boneHair53
+    100050: boneHair54
+    100052: boneHair61
+    100054: boneHair62
+    100056: boneHair63
+    100058: boneHair64
+    100060: boneHair71
+    100062: boneHair72
+    100064: boneHair73
+    100066: boneHair74
+    100068: boneHair81
+    100070: boneHair82
+    100072: boneHair83
+    100074: boneHair84
+    100076: boneHair91
+    100078: boneHair92
+    100080: boneHair93
+    100082: boneHead
+    100084: boneLeftHand1
+    100086: boneLeftHand2
+    100088: boneLeftHand3
+    100090: boneLeftLeg1
+    100092: boneLeftLeg2
+    100094: boneLeftLeg3
+    100096: boneRightHand1
+    100098: boneRightHand2
+    100100: boneRightHand3
+    100102: boneRightLeg1
+    100104: boneRightLeg2
+    100106: boneRightLeg3
+    100108: boneSkirt
+    100110: boneSkirtAhead1
+    100112: boneSkirtAhead2
+    100114: boneSkirtBack1
+    100116: boneSkirtBack2
+    100118: cloth
+    100120: //RootNode
+    100122: hair
+    100124: skirt
+    400000: body
+    400002: boneBody1
+    400004: boneBody2
+    400006: boneBody3
+    400008: boneHair
+    400010: boneHair011
+    400012: boneHair012
+    400014: boneHair013
+    400016: boneHair021
+    400018: boneHair022
+    400020: boneHair11
+    400022: boneHair12
+    400024: boneHair21
+    400026: boneHair22
+    400028: boneHair23
+    400030: boneHair31
+    400032: boneHair32
+    400034: boneHair33
+    400036: boneHair41
+    400038: boneHair42
+    400040: boneHair43
+    400042: boneHair44
+    400044: boneHair51
+    400046: boneHair52
+    400048: boneHair53
+    400050: boneHair54
+    400052: boneHair61
+    400054: boneHair62
+    400056: boneHair63
+    400058: boneHair64
+    400060: boneHair71
+    400062: boneHair72
+    400064: boneHair73
+    400066: boneHair74
+    400068: boneHair81
+    400070: boneHair82
+    400072: boneHair83
+    400074: boneHair84
+    400076: boneHair91
+    400078: boneHair92
+    400080: boneHair93
+    400082: boneHead
+    400084: boneLeftHand1
+    400086: boneLeftHand2
+    400088: boneLeftHand3
+    400090: boneLeftLeg1
+    400092: boneLeftLeg2
+    400094: boneLeftLeg3
+    400096: boneRightHand1
+    400098: boneRightHand2
+    400100: boneRightHand3
+    400102: boneRightLeg1
+    400104: boneRightLeg2
+    400106: boneRightLeg3
+    400108: boneSkirt
+    400110: boneSkirtAhead1
+    400112: boneSkirtAhead2
+    400114: boneSkirtBack1
+    400116: boneSkirtBack2
+    400118: cloth
+    400120: //RootNode
+    400122: hair
+    400124: skirt
+    2300000: cloth
+    3300000: cloth
+    4300000: body
+    4300002: hair
+    4300004: cloth
+    4300006: skirt
+    9500000: //RootNode
+    13700000: body
+    13700002: hair
+    13700004: skirt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
